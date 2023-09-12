@@ -55,4 +55,4 @@
   - Provided actionable insights to optimize Myntra's strategies.
   - The project uncovers trends, showcases growth, and navigates data challenges. 🛍️📊📈🌎
 ## Contact:
-   For any further enquiries or feedback please contact me on 
+   For any further enquiries or feedback please contact me on https://www.linkedin.com/in/sanskriti-choudante-2b601b242
