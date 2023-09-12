@@ -38,10 +38,7 @@
   - Data volume and complexity were significant challenges.
   - Daily sales data presented complexity but fueled determination.
 
-  ## Conclusion:
-  - Demonstrated the power of data analytics in e-commerce.
-  - Provided actionable insights to optimize Myntra's strategies.
-  - The project uncovers trends, showcases growth, and navigates data challenges. 🛍️📊📈🌎
+  
 
 
 
@@ -51,3 +48,11 @@
 
 
 ![DM 2](https://github.com/Sans9211/Myntra_Analysis/assets/104644783/394e61b2-62eb-43b7-a926-ccf861bd7929)
+
+
+## Conclusion:
+  - Demonstrated the power of data analytics in e-commerce.
+  - Provided actionable insights to optimize Myntra's strategies.
+  - The project uncovers trends, showcases growth, and navigates data challenges. 🛍️📊📈🌎
+## Contact:
+   For any further enquiries or feedback please contact me on 
